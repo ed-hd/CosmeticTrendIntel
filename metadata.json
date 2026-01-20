@@ -1,0 +1,7 @@
+{
+  "name": "Cosmetic Trend Intelligence",
+  "description": "A high-end cosmetic market analysis dashboard using Gemini AI with Google Search grounding to provide real-time global beauty trends, ingredient analysis, and consumer behavior reports.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
